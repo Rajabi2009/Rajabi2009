@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajabi2009
+- 👋 Hi, I’m Mohammad Rajabi
 - 👀 I’m interested in Asp.net core,React native, C# programming and also Machine learning (Supervised and unsupervised learning)
 - 🌱 I’m currently learning JIRA
 - 💞️ I’m looking to collaborate on ...
